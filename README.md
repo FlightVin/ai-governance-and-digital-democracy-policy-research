@@ -12,12 +12,17 @@ This repository contains comprehensive policy research analyzing the feasibility
 
 The research was conducted from the perspective of the United States delegation, examining technical feasibility, economic impacts, and regulatory trade-offs across jurisdictions with varying capabilities.
 
+## Context
+
+This research was developed for the General Assembly session of a Model United Nations conference, where delegates debated whether EU digital governance frameworks should become the global standard. The position and summary papers reflect extensive deliberation incorporating economic data, technical constraints, and diverse geopolitical perspectives.
+
+
 ## Documents
 
 - **[Position Paper](D3GEU_Position_Paper.pdf)** - Initial policy stance outlining U.S. concerns regarding innovation constraints, compliance burdens, and regulatory fragmentation
 - **[Summary Analysis](D3GEU_Summary.pdf)** - Comprehensive synthesis of caucus discussions, incorporating perspectives from multiple delegations and examining act-specific challenges
 
-## Key Research Areas
+## Key Areas
 
 ### 1. **Technical Feasibility Analysis**
 - Infrastructure requirements for implementing EU-style data governance in developing economies
@@ -39,36 +44,6 @@ The research was conducted from the perspective of the United States delegation,
 - Adequacy assessment inconsistencies across jurisdictions
 - Risk of regulatory arbitrage within supposedly harmonized frameworks
 
-## Research Methodology
-
-The analysis employed:
-
-1. **Multi-stakeholder perspective integration** - Synthesized viewpoints from government delegations (U.S., EU, India, China, Japan, UK, South Africa, Brazil), technology companies (Meta, Google, Apple, Amazon, OpenAI, X/Twitter), and civil society organizations
-
-2. **Act-specific examination** - Detailed critique of each regulatory component:
-   - GDPR: Right to erasure vs. blockchain immutability, consent fatigue, adequacy determinations
-   - DGA: Data intermediary viability (only 11 registered services globally), data altruism skepticism
-   - DSA: Content moderation overreach, "illegal content" definition ambiguity, algorithmic audit concerns
-   - DMA: Gatekeeper designation bias (6/7 U.S. companies), interoperability cost analysis (Apple's $3.2B USB-C transition)
-
-3. **Comparative framework analysis** - Evaluated alternative governance models:
-   - U.S.: Sectoral approach (CCPA, CLOUD Act), APEC CBPR system
-   - India: Digital Personal Data Protection (DPDP) Act with adaptive thresholds
-   - China: Cyber sovereignty model with state-controlled data flows
-   - Brazil: LGPD with local context adaptation
-
-## Policy Recommendations
-
-The research advocates for:
-- **Flexible, risk-based approaches** over prescriptive blanket regulations
-- **Mutual recognition frameworks** enabling cross-border data flows between jurisdictions with compatible protections
-- **Tiered compliance requirements** scaled to organizational size and risk profile
-- **Multi-stakeholder governance councils** with equal representation and transparent decision-making
-- **Regulatory sandboxes** for safe experimentation with emerging technologies
-
-## Context
-
-This research was developed for the General Assembly session of a Model United Nations conference, where delegates debated whether EU digital governance frameworks should become the global standard. The position and summary papers reflect extensive deliberation incorporating economic data, technical constraints, and diverse geopolitical perspectives.
 
 ## Key Insights
 
