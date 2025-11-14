@@ -53,3 +53,8 @@ This research was developed for the General Assembly session of a Model United N
 
 > "Despite the positive intentions that reside in the EU's digital governance framework, they are not well suited for universalisation... There is thus a need to listen to varied views and on a deeper level understand that not all countries share similar resources and needs."
 
+## AI Usage Policy
+
+AI search engines such as Perplexity and research copilots OpenAI's Deep Research were employed for scoping requirements and prior art. Text present within the attached documents are entirely human written. 
+
+
